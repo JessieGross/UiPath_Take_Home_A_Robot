@@ -4,7 +4,7 @@
 Well, it saves you time. Just kidding but not kidding, this bot will wait until there's an article (pdf) in `Input` folder (pdf), analyze that article, automatically generate hashtags then post the whole thing to Linkedin, all within seconds.
 
 Sounds awesome? Let's move on.
-
+![](https://i.imgur.com/KD4D6nl.gif)
 ## What do you need?
 * `UiPath Studio`. Download community version (free) here.
     * https://www.uipath.com/developers/community-edition-download
@@ -120,7 +120,7 @@ Use Web Recorder to logout of your account.
 
 Here is a preview of what the full process put together should look like.
 
-![](https://i.imgur.com/KD4D6nl.gif)
+https://www.youtube.com/watch?v=pdGKMtjV0y4
 
 You're all done!
 
