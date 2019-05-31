@@ -117,8 +117,10 @@ Use Web Recorder to logout of your account.
 
 ### 7. Grand Finale (🔥)
 
+
 Here is a preview of what the full process put together should look like.
-![](https://i.imgur.com/78ImAFH.gif)
+
+![](https://i.imgur.com/KD4D6nl.gif)
 
 You're all done!
 
