@@ -1,4 +1,3 @@
-# UiPath_Take_Home_A_Robot
 # LinkedIn Bot Step-By-Step Guide
 
 ## What does it do?
@@ -115,12 +114,6 @@ You will have something like this:
 ### 6. Logout of Linkedin
 Use Web Recorder to logout of your account.
 ![](https://i.imgur.com/AJ2Q1Rh.png)
-
-
-
-    
-
-<!-- <img src="https://github.com/JessieGross/FlashcardsMagic/blob/master/AppDemo.gif" width=400><br> -->
 
 ### 7. Grand Finale (🔥)
 
